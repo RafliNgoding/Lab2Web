@@ -1,5 +1,5 @@
 # Praktikum 2: HTML Lanjutan - Pemrograman Web
-Repository ini dibuat untuk menyelesaikan tugas Praktikum 2 Pemrograman Web.**.
+Repository ini dibuat untuk menyelesaikan tugas Praktikum 2 Pemrograman Web.
 
 ## Identitas Mahasiswa
 
